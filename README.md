@@ -22,7 +22,7 @@ SafeSpace is a platform committed to raising awareness and providing resources f
 - Middleware
 
 ### Client-Side
-- **HomePage**: Introduces the platform’s purpose and the team behind it.
+- **HomePage**: Introduces the platform’s purpose and the experts.
 - **AboutUs**: Introduces the team.
 - **Expert Forum**: Displays a list of questions that can be filtered by category and keywords.
 - **SingleQuestionPage**: Shows the complete details of a question along with its answers.
