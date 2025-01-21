@@ -1,6 +1,5 @@
 // Import libraries and modules
 import useFetch from "../hooks/useFetch.jsx";
-import { useParams, Navigate } from "react-router-dom";
 import '../style/ExpertForum.css';
 import { useState } from "react";
 import QuestionItem from "../components/QuestionItem.jsx";
