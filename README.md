@@ -58,6 +58,7 @@ CLIENT_URL=http://localhost:3000
 ADMIN_URL=http://localhost:4000
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret_key
+PASS=your_Admin_email_password_used_for_sending_update_notifications (admin email is used in emailService.js)
 ```
 
 #### `/client/.env`
