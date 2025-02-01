@@ -58,7 +58,8 @@ CLIENT_URL=http://localhost:3000
 ADMIN_URL=http://localhost:4000
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret_key
-PASS=your_Admin_email_password_used_for_sending_update_notifications (admin email is used in emailService.js)
+PASS=your_admin_gmail_password (the admin email is used in `emailService.js` to send emails to users and experts)
+**Note**: If you are using Gmail with Two-Factor Authentication (2FA), you need to create an "App Password". The App Password will replace your regular Gmail password for accessing services like sending emails.
 ```
 
 #### `/client/.env`
